@@ -1,0 +1,67 @@
+
+{
+   "1": {
+      "name": "LIGHT FIXTURE RECESSED",
+      "category": 3
+   },
+   "2": {
+      "name": "LIGHT FIXTURE SURFACE",
+      "category": 3
+   },
+   "4": {
+      "name": "SINGLE POLE SWITCH",
+      "category": 2
+   },
+   "6": {
+      "name": "THIN LIGHT FIXTURE",
+      "category": 3
+   },
+   "7": {
+      "name": "JUNCTION BOX",
+      "category": 2
+   },
+   "8": {
+      "name": "EMERGENCY NIGHT LIGHT",
+      "category": 3
+   },
+   "9": {
+      "name": "CYLINDER LIGHT FIXTURE",
+      "category": 3
+   },
+   "11": {
+      "name": "EXIT SIGN",
+      "category": 3
+   },
+   "12": {
+      "name": "NON-FUSED DISCONNECT SWITCH",
+      "category": 2
+   },
+   "14": {
+      "name": "PANELBOARD",
+      "category": 1
+   },
+   "17": {
+      "name": "led type 1",
+      "category": 3
+   },
+   "19": {
+      "name": "1X4 STRIP LIGHT FIXTURE",
+      "category": 3
+   },
+   "22": {
+      "name": "SQUARE APERTURE DOWNLIGHT",
+      "category": 3
+   },
+   "23": {
+      "name": "SINGLE POLE KEYED SWITCH",
+      "category": 2
+   },
+   "28": {
+      "name": "FLUSH IN CEILING MOUNTED SPEAKER WITH BACKBOX",
+      "category": 3
+   },
+   "29": {
+      "name": "SURFACE SPEAKER",
+      "category": 3
+   }
+}
